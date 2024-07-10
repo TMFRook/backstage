@@ -94,7 +94,7 @@
     "json-schema-library": "^9.0.0",
     "jszip": "^3.10.1",
     "lodash": "^4.17.21",
-    "luxon": "^3.0.0",
+    "luxon": "^2.5.2",
     "qs": "^6.9.4",
     "react-use": "^17.2.4",
     "react-window": "^1.8.10",
