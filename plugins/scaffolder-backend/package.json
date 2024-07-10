@@ -96,7 +96,7 @@
     "isbinaryfile": "^5.0.0",
     "isolated-vm": "^4.5.0",
     "jsonschema": "^1.2.6",
-    "knex": "^3.0.0",
+    "knex": "^2.4.0",
     "lodash": "^4.17.21",
     "logform": "^2.3.2",
     "luxon": "^3.0.0",
