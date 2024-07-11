@@ -81,7 +81,7 @@
     "fs-extra": "^11.2.0",
     "google-auth-library": "^9.0.0",
     "jose": "^5.0.0",
-    "knex": "^3.0.0",
+    "knex": "^2.4.0",
     "lodash": "^4.17.21",
     "luxon": "^3.0.0",
     "minimatch": "^9.0.0",
