@@ -60,7 +60,7 @@
     "@backstage/core-compat-api": "workspace:^",
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/errors": "0.1.1",
     "@backstage/frontend-plugin-api": "workspace:^",
     "@backstage/integration": "workspace:^",
     "@backstage/integration-react": "workspace:^",
